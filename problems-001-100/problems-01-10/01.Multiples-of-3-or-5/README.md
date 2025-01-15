@@ -83,3 +83,7 @@ The final result will be a single number representing the sum of all multiples o
 -   Efficient computation for large ranges
 
 This problem is an excellent example of using mathematical reasoning and computational efficiency.
+
+## Solution
+
+The solution is implemented in the file [`Solution`](./Multiples-of-3-or-5.js). You can find the detailed logic and implementation in the file. Run the file using Node.js or in browser to compute the desired result.
